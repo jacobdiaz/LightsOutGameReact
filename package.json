@@ -1,5 +1,5 @@
 {
-  "homepage" : "https://jacobdiaz.github.io/LightsOutGameReact",
+  "homepage": "https://github.com/jacobdiaz/LightsOutGameReact#readme",
   "name": "react-lights-out",
   "version": "0.1.0",
   "private": true,
@@ -14,7 +14,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy" : "gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -38,6 +38,5 @@
   "bugs": {
     "url": "https://github.com/jacobdiaz/LightsOutGameReact/issues"
   },
-  "homepage": "https://github.com/jacobdiaz/LightsOutGameReact#readme",
   "description": ""
 }
