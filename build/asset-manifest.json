@@ -1,13 +1,13 @@
 {
-  "main.css": "/jacobdiaz/LightsOutGameReact/static/css/main.e30522d1.chunk.css",
-  "main.js": "/jacobdiaz/LightsOutGameReact/static/js/main.147fa567.chunk.js",
-  "main.js.map": "/jacobdiaz/LightsOutGameReact/static/js/main.147fa567.chunk.js.map",
-  "static/js/1.b43a7eab.chunk.js": "/jacobdiaz/LightsOutGameReact/static/js/1.b43a7eab.chunk.js",
-  "static/js/1.b43a7eab.chunk.js.map": "/jacobdiaz/LightsOutGameReact/static/js/1.b43a7eab.chunk.js.map",
-  "runtime~main.js": "/jacobdiaz/LightsOutGameReact/static/js/runtime~main.8d8db835.js",
-  "runtime~main.js.map": "/jacobdiaz/LightsOutGameReact/static/js/runtime~main.8d8db835.js.map",
-  "static/css/main.e30522d1.chunk.css.map": "/jacobdiaz/LightsOutGameReact/static/css/main.e30522d1.chunk.css.map",
-  "index.html": "/jacobdiaz/LightsOutGameReact/index.html",
-  "precache-manifest.134905e3486373882710e4c7e009ff73.js": "/jacobdiaz/LightsOutGameReact/precache-manifest.134905e3486373882710e4c7e009ff73.js",
-  "service-worker.js": "/jacobdiaz/LightsOutGameReact/service-worker.js"
+  "main.css": "/LightsOutGameReact/static/css/main.e30522d1.chunk.css",
+  "main.js": "/LightsOutGameReact/static/js/main.c4899601.chunk.js",
+  "main.js.map": "/LightsOutGameReact/static/js/main.c4899601.chunk.js.map",
+  "static/js/1.b43a7eab.chunk.js": "/LightsOutGameReact/static/js/1.b43a7eab.chunk.js",
+  "static/js/1.b43a7eab.chunk.js.map": "/LightsOutGameReact/static/js/1.b43a7eab.chunk.js.map",
+  "runtime~main.js": "/LightsOutGameReact/static/js/runtime~main.38830010.js",
+  "runtime~main.js.map": "/LightsOutGameReact/static/js/runtime~main.38830010.js.map",
+  "static/css/main.e30522d1.chunk.css.map": "/LightsOutGameReact/static/css/main.e30522d1.chunk.css.map",
+  "index.html": "/LightsOutGameReact/index.html",
+  "precache-manifest.1b4eeb57d19c9b63691d5f541841bf0a.js": "/LightsOutGameReact/precache-manifest.1b4eeb57d19c9b63691d5f541841bf0a.js",
+  "service-worker.js": "/LightsOutGameReact/service-worker.js"
 }
